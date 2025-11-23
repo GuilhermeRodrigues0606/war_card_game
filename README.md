@@ -226,7 +226,7 @@ A `Lista Duplamente Encadeada` (de `src/structures/doubly_linked_list.py`) é us
     Após configurar a estrutura de arquivos e instalar o Pygame:
     1.  Abra seu terminal ou prompt de comando.
     2.  Use o comando `cd` para navegar até o diretório raiz do seu projeto (a pasta `jogo_guerra/`, que contém `run_game.py` e a pasta `src/`).
-    3.  Execute o script `run_game.py` com o comando:
+    3.  Execute o script `run_game.py` com o comando.:
         ```bash
         python3 run_game.py
         ```
